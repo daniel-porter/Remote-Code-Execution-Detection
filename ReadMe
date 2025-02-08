@@ -46,7 +46,16 @@ Artifacts:
     Action Center Logs: Automated responses (e.g., device isolation).
     Investigation Package: Comprehensive forensic data for analysis.
 
-Screenshots:
+## Remote Code Execution Detection Screenshots
+
+### 1. PowerShell Command Execution
+![PowerShell Command Execution](https://github.com/daniel-porter/Remote-Code-Execution-Detection/blob/main/Remote%20Code%20Execution%20Detection%20Screenshots/1.png?raw=true "PowerShell Execution Screenshot")
+
+### 2. Detection Rule in Microsoft Defender
+![Detection Rule](https://github.com/daniel-porter/Remote-Code-Execution-Detection/blob/main/Remote%20Code%20Execution%20Detection%20Screenshots/2.png?raw=true "Detection Rule Screenshot")
+
+### 3. Investigation Package in Action Center
+![Investigation Package](https://github.com/daniel-porter/Remote-Code-Execution-Detection/blob/main/Remote%20Code%20Execution%20Detection%20Screenshots/3.png?raw=true "Investigation Package Screenshot")
 
   
 
